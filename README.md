@@ -79,7 +79,7 @@ huffmanCode=huffman_code_tree(nodes[0][0])
 print(' Char | Huffman code ') 
 print('----------------------')
 for (char, frequency) in freq:
-    print('%-4r|%12s'%(char,huffmanCode[char]))
+    print('%-4r|%12s'%(char,huffmanCode[char])) 
 ```
 
 ## Output:
