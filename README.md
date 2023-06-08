@@ -28,8 +28,8 @@ Print the characters and its huffman code.
 
 ## Program:
 ```
-Developed by: Haridharshini S
-Reg No: 212221230033
+Developed by: A Joans jay authers
+Reg No: 212221240019
 ```
 ```
 # Get the input String
